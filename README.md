@@ -12,9 +12,11 @@ I took a a table of TOEFL vocabulary list online, tried to clean the data and co
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/4SkMd36/word.png)
+<img src="Screenshots/word.png" alt="word" border="0">
 
-![App Screenshot](https://i.ibb.co/4SkMd36/word.png)
+
+<img src="Screenshots/explanation.png" alt="word" border="0">
+
 ## 🚀 About Me
 I am currently a senior year Computer Science undergraduate student at Ecole Polytechnique Sousse.
 
