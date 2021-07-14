@@ -14,4 +14,4 @@ I took a a table of TOEFL vocabulary list online, tried to clean the data and co
 
 ## 🚀 About Me
 
-<img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img alt="Twitter" src="https://img.shields.io/badge/<krifaymen>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
