@@ -13,5 +13,4 @@ I took a a table of TOEFL vocabulary list online, tried to clean the data and co
 <img src="Screenshots/explanation.png" alt="word" border="0">
 
 ## 🚀 About Me
-
-<img alt="Twitter" src="https://img.shields.io/badge/<krifaymen>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+<a href=http://vsco.com/aymenkr>VSCO page</a>
