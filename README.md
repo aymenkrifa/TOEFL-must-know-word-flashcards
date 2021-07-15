@@ -18,6 +18,11 @@ I took a a table of TOEFL vocabulary list online, tried to clean the data and co
 
 <img src="Screenshots/explanation.png" alt="word" border="0">
 
+## Acknowledgements
+
+  <a href="https://quizlet.com/in/518132773/prepscholar-327-toefl-flash-cards/">Prepscholar 327 TOEFL flashcards</a>
+  <a href="https://github.com/aymenkrifa/TOEFL-must-know-word-flashcards/blob/main/data/toefl_must_known_words.csv">TOEFL must-know words full list in a CSV format</a>
+
 ## 🚀 About Me
 I am currently a senior year Computer Science undergraduate student at Ecole Polytechnique Sousse.
 
